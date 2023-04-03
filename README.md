@@ -1,7 +1,6 @@
 
 ## Skin-Lesion-Analyzer
 
-Live Web App: http://skin.test.woza.work/
 
 <br>
 

@@ -56,7 +56,7 @@ async function model_makePrediction(fname) {
 		}).sort(function (a, b) {
 			return b.probability - a.probability;
 				
-		});
+		}).slice(0, 3);
 		
 	// Append the file name to the prediction list
 	$("#prediction-list").append(`<li class="w3-text-blue fname-font" style="list-style-type:none;">

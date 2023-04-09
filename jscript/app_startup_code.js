@@ -40,7 +40,7 @@ let model;
 	// This line of html gets hidden:
 	// <div class="progress-bar">Ai is Loading...</div>
 	//$('.progress-bar').hide();
-	$('.progress-bar').append(`<p>${model.containerNodes.size}</p>`);
+	$('.progress-bar').append(`<p>${JSON.stringify(model)}</p>`);
 
 	// Simulate a click on the predict button.
 	// Make a prediction on the default front page image.

@@ -44,7 +44,7 @@ let model;
 
 	// Simulate a click on the predict button.
 	// Make a prediction on the default front page image.
-	await predictOnLoad();
+	predictOnLoad();
 
 
 

@@ -34,7 +34,7 @@ let model;
 (async function () {
 
 	model = await tf.loadModel("../final_model_kaggle_version1/model.json");
-	$("#selected-image").attr("src", "http://skin.test.woza.work/assets/samplepic.jpg");
+	$("#selected-image").attr("src", "../assets/samplepic.jpg");
 
 	// Hide the model loading spinner
 	// This line of html gets hidden:

@@ -39,8 +39,8 @@ let model;
 	// Hide the model loading spinner
 	// This line of html gets hidden:
 	// <div class="progress-bar">Ai is Loading...</div>
-	//$('.progress-bar').hide();
-	$('.progress-bar').append(`<p>${JSON.stringify(model)}</p>`);
+	$('.progress-bar').hide();
+	
 
 	// Simulate a click on the predict button.
 	// Make a prediction on the default front page image.

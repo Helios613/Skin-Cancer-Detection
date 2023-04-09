@@ -20,7 +20,7 @@ function simulateClick(tabID) {
 function predictOnLoad() {
 
 	// Simulate a click on the predict button
-	setTimeout(simulateClick.bind(null, 'predict-button'), 500);
+	setTimeout(simulateClick.bind(null, 'predict-button'), 2500);
 }
 
 

@@ -19,6 +19,6 @@ https://arxiv.org/abs/1803.10417
 
 
 The entire model building and training process is described in this Kaggle kernel:<br>
-https://www.kaggle.com/code/piyushrajput18/skin-lesion-analyzer/
+https://www.kaggle.com/piyushrajput18/skin-cancer-detector/
 
 The python code to build and train the model is included in the Jupyter notebook. All the javascript, css and html files are also freely available here. The trained model is also available.

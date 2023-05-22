@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="http://skin.test.woza.work/assets/app_pic.png" width="350"></img>
+<img src="https://drive.google.com/file/d/1Ye6yZsfQF5tEJ6DEX-O4gZ0U12k3Vlv-/view?usp=share_link" width="350"></img>
 
 <br>
 

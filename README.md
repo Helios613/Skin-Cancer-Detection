@@ -1,5 +1,5 @@
 
-## Skin-Lesion-Analyzer
+## Skin-Cancer-Detector
 
 
 <br>
